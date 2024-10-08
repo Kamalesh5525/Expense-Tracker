@@ -1,0 +1,10 @@
+body {
+    background-color: #CDE8E5 !important;
+    background-image: url('../public/pexels-photo-8850000.jpeg');
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    width:100%;
+    z-index: 9999;
+    background-position: center;
+}
